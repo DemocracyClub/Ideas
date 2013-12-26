@@ -25,4 +25,4 @@ MaPit/PoPit install with PPC data included.
 
 Vote breakdown by constituency, historically.  Needs to deal logically with boundary change.
 
-* Prospective Parliamentary Candidate: http://en.wikipedia.org/wiki/Prospective_parliamentary_candidate
+    * Prospective Parliamentary Candidate: http://en.wikipedia.org/wiki/Prospective_parliamentary_candidate
