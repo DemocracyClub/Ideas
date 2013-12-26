@@ -1,0 +1,27 @@
+# Things we can do
+
+## Not apathetic 2.0
+
+Provide a forum for those who don't vote for a reason to express their opinions.
+
+* Do the work to review the data from last time.
+
+## 'None of the above' as a service
+
+Everyone wants 'none of the above' on the voting ballot.  Provide a web service that just offers this.
+
+## PPC* survey 2.0
+
+Like Democracy Club did before.  
+
+
+## Data services
+
+### PPC -> Constituency lookup.
+
+MaPit/PoPit install with PPC data included.
+
+### Election history service. 
+
+Vote breakdown by constituency, historically.  Needs to deal logically with boundary change.
+
