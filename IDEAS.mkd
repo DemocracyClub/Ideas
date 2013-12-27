@@ -14,6 +14,9 @@ Everyone wants 'none of the above' on the voting ballot.  Provide a web service 
 
 Like Democracy Club did before.  
 
+## Revive QuestionYourCandidates
+
+[QuestionYourCandidates](https://github.com/Floppy/questionyourcandidates) was a simple interface to list local election debates and hustings. Made just too late to be useful for the last election, but could be easily revived.
 
 ## Data services
 
