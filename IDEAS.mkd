@@ -32,6 +32,10 @@ MaPit/PoPit install with PPC data included.
 
 Vote breakdown by constituency, historically.  Needs to deal logically with boundary change.
 
+### PPC database
+
+A database (and API, etc) for recording PPCs against party and constituency.  Political history would be great here too (like, if they are a party pro flown in from somewhere else to get a safe seat)
+
 ## Create an alternative choice
 
 The [OpenPolitics project](http://openpolitics.github.io/manifesto) is an experiment in crowdsourcing a political manifesto through GitHub. If the experiment works, we could put up some candidates.
