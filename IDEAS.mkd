@@ -22,6 +22,11 @@ Like Democracy Club did before.
 
 [QuestionYourCandidates](https://github.com/Floppy/questionyourcandidates) was a simple interface to list local election debates and hustings. Made just too late to be useful for the last election, but could be easily revived.
 
+### PPC database / yournextpcc.com 2.0
+
+A database (and API, etc) for recording PPCs against party and constituency.  Political history would be great here too (like, if they are a party pro flown in from somewhere else to get a safe seat)
+
+
 ## Data services
 
 ### PPC -> Constituency lookup.
@@ -32,9 +37,6 @@ MaPit/PoPit install with PPC data included.
 
 Vote breakdown by constituency, historically.  Needs to deal logically with boundary change.
 
-### PPC database
-
-A database (and API, etc) for recording PPCs against party and constituency.  Political history would be great here too (like, if they are a party pro flown in from somewhere else to get a safe seat)
 
 ## Create an alternative choice
 
