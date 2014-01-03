@@ -4,6 +4,50 @@
 
 Enter your postcode and get back info on what elections are coming up that you can participate in. It can also act as your gateway into the tools below (and others).
 
+## PPC Wikipedia
+
+Coordinated effort to create/update wikipedia pages for all PPCs
+
+## Google adword tracker
+
+Monitor price of election related google adwords (and who's probably buying them? Not sure if possible)
+
+
+## "calling on"
+
+Search news / press releases for politicians "calling on" people to do things "I call on David Cameron/Ed Milliband to do X". Auto publish to tumblr.
+
+
+## database of promises
+
+Build a database of promises (crowd source, use the mysociety sayit thing?)
+
+#ukvote
+
+Real time voting on election day (think #uksnow)
+
+## Killer question
+
+Julian's killer question app + volunteers to turn up at hustings (needs explaining more)
+
+## Hustings mapper
+
+Hustings mapper + kit/instructions for organising one
+
+## Github manifestos
+Stick all manifestos on github as markdown, and ask people to fork them
+
+## MP reports
+Buy a nicely designed and printed report on your MP (use newspaper club api). Option to buy for your neighbours.
+
+## Electioneering tumblr
+
+Tumblr for each constituency that lists every poster, leaflet, tweet, boring detail of the eleciton there.
+
+## Polling day info
+
+Understand what info people want on polling day and get it on google e.g. Polling stations location and opening times
+
 ## Not apathetic 2.0
 
 Provide a forum for those who don't vote for a reason to express their opinions.
