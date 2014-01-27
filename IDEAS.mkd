@@ -34,6 +34,8 @@ Julian's killer question app + volunteers to turn up at hustings (needs explaini
 
 Hustings mapper + kit/instructions for organising one
 
+tfgg: Someone ran a site like this at the last election. I can't seem to find it now, though. It was pretty cool, and I'd have liked Democracy Club to collaborate with them earlier.
+
 ## Github manifestos
 Stick all manifestos on github as markdown, and ask people to fork them
 
