@@ -22,6 +22,10 @@ Search news / press releases for politicians "calling on" people to do things "I
 
 Build a database of promises (crowd source, use the mysociety sayit thing?)
 
+## database of NGO surveys/pledges
+
+Similar to database of promises, but focusing on sourcing questionnaires, surveys, pledges that NGOs or other orgs have got candidates to sign. E.g. LGBT labour is surveying their MEP candidates here http://www.lgbtlabour.org.uk/mepselection2013 . A lot of charities did this at the last election, but I suspect most of the data is now gone/squirreled away!
+
 ## #ukvote
 
 Real time voting on election day (think #uksnow)
