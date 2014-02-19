@@ -13,6 +13,11 @@ Coordinated effort to create/update wikipedia pages for all PPCs
 Monitor price of election related google adwords (and who's probably buying them? Not sure if possible)
 
 
+## 18th birthday welcome pack
+
+A physical, beautiful, pack containing information about voting, who you can vote for, why, how, etc.
+
+
 ## "calling on"
 
 Search news / press releases for politicians "calling on" people to do things "I call on David Cameron/Ed Milliband to do X". Auto publish to tumblr.
