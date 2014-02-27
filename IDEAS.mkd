@@ -10,7 +10,7 @@ PH: also it should say who your elected representatives are at all levels, resul
 
 Coordinated effort to create/update wikipedia pages for all PPCs
 
-PH: also dates of upcoming elections and results of previous ones. I see the site as having an informational function as well as a campaigning one and having election results is 
+PH: also dates of upcoming elections and results of previous ones. I see the site as having an informational function as well as a campaigning one and including previous election results is an important part of the informational function.
 
 ## Google adword tracker
 
@@ -44,7 +44,7 @@ A more sophisticated idea would be for both voters and candidates to answer a de
 
 One thing that makes people cynical about politicians is that they can, and do, break their promises.
 
-Maybe the site could have a way of allowing politicians to declare that a promise of them is to be considered legally binding, and if they break it then any vote who is worse off as a consequience can sue them personally.
+Maybe the site could have a way of allowing politicians to declare that a promise of them is to be considered legally binding, and if they break it then any voter who is worse off as a consequience can sue them personally.
 
 I don't know if this would actuially make their promise legally binding. If it did, all well and good.
 
@@ -82,7 +82,7 @@ tfgg: Someone ran a site like this at the last election. I can't seem to find it
 
 Stick all manifestos on github as markdown, and ask people to fork them
 
-PH: a simpler thing to do would be to put up all the manifestos in the pdf they're supplied in. Also for old manifestoes (I have some on my euroelection site).
+PH: a simpler thing to do would be to put up all the manifestos in the pdf format they're supplied in. Also do this for old manifestoes (I have some on my euroelection site).
 
 ## MP reports
 Buy a nicely designed and printed report on your MP (use newspaper club api). Option to buy for your neighbours.
