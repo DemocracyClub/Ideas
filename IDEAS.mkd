@@ -119,6 +119,22 @@ Like Democracy Club did before.
 
 A database (and API, etc) for recording PPCs against party and constituency.  Political history would be great here too (like, if they are a party pro flown in from somewhere else to get a safe seat)
 
+tfgg: Some components that I think would be useful here:
+
+### Twitter archiver
+
+Keep an archive of tweets from various Twitter accounts (presumably pulled from a popit database) for further analysis. Also, keep an archive of profile pics and other accounts details. Possibly handle changes of Twitter account name, which often happens when a person re-uses an account from previous campaign in a new election.
+
+### News mention monitoring
+
+Monitor mentions of candidates on a large set of discovered RSS feeds. On YourNextPCC I did this manually and it was a faff, but also very interesting for learning about candidates. RSS feeds could be discovered automatically by auto-googling for news stories about candidates or being given sample news stories and picking up feeds in the html body. Collaborate with news snippet services?
+
+This could also be used to automatically find possible new candidates, looking for regular uses of language to describe someone's candidacy.
+
+### Automatic candidate website archiving
+
+For YourNextPCC I spidered all the candidates websites on the day of the election, but there was no attempt to do it before. Could do a regular spidering of all known candidate websites (again, from popit). Fairly cheap if you just dump it all on Amazon S3.
+
 
 ## Data services
 
