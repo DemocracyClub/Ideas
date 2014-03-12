@@ -78,6 +78,14 @@ Hustings mapper + kit/instructions for organising one
 
 tfgg: Someone ran a site like this at the last election. I can't seem to find it now, though. It was pretty cool, and I'd have liked Democracy Club to collaborate with them earlier.
 
+RT: such a site could link to outputs from each hustings eg. videos, transcripts, promises, reports.  It could also encourage people to take an active role eg. by asking a question, filming, writing a report, or transcibing a Q&A.
+
+RT: such a site could collect questions in advance of a hustings and help organisers pick appriopriate questions to be asked.
+
+## Reddit hustings day
+One thread per constituancy? 
+Would need planning well in advance; verifying the accounts of candidates. 
+
 ## Github manifestos
 
 Stick all manifestos on github as markdown, and ask people to fork them
@@ -101,11 +109,15 @@ Provide a forum for those who don't vote for a reason to express their opinions.
 
 * Do the work to review the data from last time.
 
+To collect the views of those who actively abstain, eg. [SpoiltPapers](http://www.spoiltpapers.org.uk/)
+
 ## 'None of the above' as a service
 
 Everyone wants 'none of the above' on the voting ballot.  Provide a web service that just offers this.
 
 PH: also an online vote. This would be more of a piece of fun than anything else (nothing wrong with that since it will bring visitors to the site) but it would be interesting to see how people vote on the website on a per constiuency basis.
+
+RT: [The NOTA Party](http://notavote.co.uk/) are putting up none of the above [http://notavote.co.uk/candidates/](candidates) so they say. 
 
 ## PPC* survey 2.0
 
@@ -114,6 +126,22 @@ Like Democracy Club did before.
 ## Revive QuestionYourCandidates
 
 [QuestionYourCandidates](https://github.com/Floppy/questionyourcandidates) was a simple interface to list local election debates and hustings. Made just too late to be useful for the last election, but could be easily revived.
+
+## RT: Encourage people to think about who they want on their ballot paper, and get involved in nominations
+
+Make the process of nominating people to stand more accessible; eg. a website / service for people to nominate those they'd like to see on their ballot paper or to enable people to collect nominations in an open and public manner. 
+
+Make the forms and proceedures accessible and publicise the nomination process (has to be done well in advance of the formal opening of nominations to make it practical for people to stand).  
+
+Given parties often select candidates on the basis of a few tens, or low hundreds, of party members voting for them; anyone nominated by a similar number of individuals surely ought be given similar standing in the media coverage in the run up to the election?
+
+## RT: Publicise fact hundreds of divisions from the last Parliament are now well described on PublicWhip
+
+This includes ~one sentence summaries of votes [example - see line starting Edward Balls](http://www.publicwhip.org.uk/division.php?date=2012-07-02&number=35&mpn=Edward_Balls&mpc=Morley_and_Outwood&house=commons)
+
+There are also many up to date policies on PublicWhip now. 
+
+This could be used as the basis for building election quizes / compare your views to your candidates and things which inform people how their sitting MP has voted. Perhaps, for example, in the style of http://www.whatthehellhavethelibdemsdone.com/
 
 ## PPC database / yournextpcc.com 2.0
 
@@ -161,4 +189,5 @@ The [OpenPolitics project](http://openpolitics.github.io/manifesto) is an experi
 
 ## key
 
-PH = Phil Hunt; cabalamat@gmail.com; cabalamat on github.
+* PH = Phil Hunt; cabalamat@gmail.com; cabalamat on github.
+* RT = Richard Taylor [@RTaylorUK](http://www.twitter.com/RTaylorUK)
