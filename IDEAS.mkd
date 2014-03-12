@@ -135,6 +135,12 @@ This could also be used to automatically find possible new candidates, looking f
 
 For YourNextPCC I spidered all the candidates websites on the day of the election, but there was no attempt to do it before. Could do a regular spidering of all known candidate websites (again, from popit). Fairly cheap if you just dump it all on Amazon S3.
 
+RT: This could just prompt/request existing archive sites to take copies of party and candidate sites during the election period using eg:
+
+* https://web.archive.org/save/http://www.example.com
+
+or
+* http://www.webcitation.org/archive.php
 
 ## Data services
 
