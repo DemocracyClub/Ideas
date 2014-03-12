@@ -78,7 +78,7 @@ Hustings mapper + kit/instructions for organising one
 
 tfgg: Someone ran a site like this at the last election. I can't seem to find it now, though. It was pretty cool, and I'd have liked Democracy Club to collaborate with them earlier.
 
-RT: such a site could link to outputs from each hustings eg. videos, transcripts, promises, reports.  It could also encourage people to take an active role eg. by asking a question, filming, writing a report, or transcibing a Q&A.
+RT: such a site could link to outputs from each hustings eg. videos, transcripts, promises, reports.  It could also encourage people to take an active role eg. by asking a question, filming, writing a report, or transcribing a Q&A.
 
 RT: such a site could collect questions in advance of a hustings and help organisers pick appriopriate questions to be asked.
 
