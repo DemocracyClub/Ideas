@@ -187,6 +187,11 @@ The [OpenPolitics project](http://openpolitics.github.io/manifesto) is an experi
 
     * Prospective Parliamentary Candidate: http://en.wikipedia.org/wiki/Prospective_parliamentary_candidate
 
+## Kickstarter for candidates
+
+* Raise deposits through crowdsourcing
+* Encourage candidate support raising through pledgebank
+
 ## key
 
 * PH = Phil Hunt; cabalamat@gmail.com; cabalamat on github.
