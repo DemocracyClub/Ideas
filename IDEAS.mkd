@@ -192,6 +192,25 @@ The [OpenPolitics project](http://openpolitics.github.io/manifesto) is an experi
 * Raise deposits through crowdsourcing
 * Encourage candidate support raising through pledgebank
 
+## 'So You Want To Stand'
+
+* Info and steps clearly laying out how you stand for election (local and national).
+
+
+## UnParty Standing Declaration
+
+* Tool to allow independants who want to stand but 'informally' be part of the UnParty.
+* Would agree with or document their differences from the Open Politics Manifesto.
+* Make it very easy to find information on 'UnParty' candidates 
+
+
+## 'As an MP my interests are ...'
+
+* Public, voluntary register of interests for an MP. 
+** What topics interest them. what Groups, Societies they are members off, What links to anything they think they should declare, regardless of the 'law' of parliament. 
+* Encourage more openness
+
+
 ## key
 
 * PH = Phil Hunt; cabalamat@gmail.com; cabalamat on github.
