@@ -103,6 +103,10 @@ Tumblr for each constituency that lists every poster, leaflet, tweet, boring det
 
 Understand what info people want on polling day and get it on google e.g. Polling stations location and opening times
 
+## Tactical vote swapper
+
+Help you understand what's most likely to happen in your constituency and match you with someone to vote swap with.
+
 ## Not apathetic 2.0
 
 Provide a forum for those who don't vote for a reason to express their opinions.
