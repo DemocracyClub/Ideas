@@ -157,6 +157,11 @@ tfgg: Some components that I think would be useful here:
 
 Keep an archive of tweets from various Twitter accounts (presumably pulled from a popit database) for further analysis. Also, keep an archive of profile pics and other accounts details. Possibly handle changes of Twitter account name, which often happens when a person re-uses an account from previous campaign in a new election.
 
+
+### Selfie monitor
+
+Using Twitter accounts of all candidates, perform facial detection and recognition to count how many selfies each candidate posts. For bonus points, find pictures of candidates in the general twitter/news stream.
+
 ### News mention monitoring
 
 Monitor mentions of candidates on a large set of discovered RSS feeds. On YourNextPCC I did this manually and it was a faff, but also very interesting for learning about candidates. RSS feeds could be discovered automatically by auto-googling for news stories about candidates or being given sample news stories and picking up feeds in the html body. Collaborate with news snippet services?
