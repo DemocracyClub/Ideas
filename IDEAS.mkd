@@ -189,6 +189,9 @@ MaPit/PoPit install with PPC data included.
 
 Vote breakdown by constituency, historically.  Needs to deal logically with boundary change.
 
+### Data store for voting advice applications
+
+A collaborative data store for questions/answers to power voter advice applications. See proposal on [my blog post](http://philipjohn.me.uk/2014/05/10/idea-a-re-usable-framework-for-who-should-i-vote-for-tests/) but consider using CSV instead of Markdown.
 
 ## Create an alternative choice
 
