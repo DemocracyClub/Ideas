@@ -219,6 +219,11 @@ The [OpenPolitics project](http://openpolitics.github.io/manifesto) is an experi
 ** What topics interest them. what Groups, Societies they are members off, What links to anything they think they should declare, regardless of the 'law' of parliament. 
 * Encourage more openness
 
+## How Many People Have Registered to Vote? (Realtime % people registered)
+
+Is there some way we can use gov.uk’s live data on voter registration to maintain a live percent-number of those eligible to register who actually have? And anything less than 100% should be a spur to action. The number should be projected on things. Sets a really clear target for councils/govt/civil-society to get behind.
+
+Presumably this data normally exists (when EC gives turnout percentage, they must have a total registered number) - and ONS / statisticians should be able to work out the number eligible to register (18+ in UK + Commonwealth in UK + UK abroad - prisoners)..but can it be done live?
 
 ## key
 
