@@ -228,6 +228,10 @@ Is there some way we can use gov.uk’s live data on voter registration to maint
 
 Presumably this data normally exists (when EC gives turnout percentage, they must have a total registered number) - and ONS / statisticians should be able to work out the number eligible to register (18+ in UK + Commonwealth in UK + UK abroad - prisoners)..but can it be done live?
 
+## Election leaflets: return to sender.
+
+Email/print leaflets received in previous elections and return them to the sucsessful candidate years later, asking for an update.
+
 ## key
 
 * PH = Phil Hunt; cabalamat@gmail.com; cabalamat on github.
