@@ -83,7 +83,8 @@ RT: such a site could link to outputs from each hustings eg. videos, transcripts
 RT: such a site could collect questions in advance of a hustings and help organisers pick appriopriate questions to be asked.
 
 ## Reddit hustings day
-One thread per constituancy? 
+
+One thread per constituency? 
 Would need planning well in advance; verifying the accounts of candidates. 
 
 ## Github manifestos
@@ -93,11 +94,12 @@ Stick all manifestos on github as markdown, and ask people to fork them
 PH: a simpler thing to do would be to put up all the manifestos in the pdf format they're supplied in. Also do this for old manifestoes (I have some on my euroelection site).
 
 ## MP reports
+
 Buy a nicely designed and printed report on your MP (use newspaper club api). Option to buy for your neighbours.
 
 ## Electioneering tumblr
 
-Tumblr for each constituency that lists every poster, leaflet, tweet, boring detail of the eleciton there.
+Tumblr for each constituency that lists every poster, leaflet, tweet, boring detail of the election there.
 
 ## Polling day info
 
@@ -106,6 +108,8 @@ Understand what info people want on polling day and get it on google e.g. Pollin
 ## Tactical vote swapper
 
 Help you understand what's most likely to happen in your constituency and match you with someone to vote swap with.
+
+(Update Mar 2016: Check out http://www.swapmyvote.uk/)
 
 ## Not apathetic 2.0
 
@@ -231,6 +235,10 @@ Presumably this data normally exists (when EC gives turnout percentage, they mus
 ## Election leaflets: return to sender.
 
 Email/print leaflets received in previous elections and return them to the sucsessful candidate years later, asking for an update.
+
+## Whatsapp Wards
+
+Test a Whatsapp group for ward level community chat. Elected representatives get to run the group. OR trusted non-partisan Democracy Clubber runs the group. Anyone can sign up. Could work for any level really. 
 
 ## key
 
