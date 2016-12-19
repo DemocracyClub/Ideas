@@ -244,7 +244,7 @@ Test a Whatsapp group for ward level community chat. Elected representatives get
 
 ## DemocraBot
 
-A twitter bot that responds automatically to people tweeting things like "Heard I have an election tomorrow, no idea who's standing"; "Argh, I don't know where to vote". Twitter is good cos we can reactively respond to be people without them needing to know we exist. Facebook messenger bots are nice, but require proactiveness on behalf of voters.
+A twitter bot that responds automatically to people tweeting things like "Heard I have an election tomorrow, no idea who's standing"; "Argh, I don't know where to vote". Twitter is good cos we can reactively respond to be people without them needing to know we exist. Facebook messenger bots are nice, but require proactiveness on behalf of voters. MVP twitterbot = Joe.
 
 ## key
 
