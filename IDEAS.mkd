@@ -193,6 +193,10 @@ MaPit/PoPit install with PPC data included.
 
 Vote breakdown by constituency, historically.  Needs to deal logically with boundary change.
 
+### Political parties
+
+Take the EC's Register of Political Parties and add to it with contact info, website, wikipedia page, etc. User need, from Scottish cycling campaigner: "A list of local parties' websites and email addresses would be extremely useful if that's something that's on your radar at all".
+
 ### Data store for voting advice applications
 
 A collaborative data store for questions/answers to power voter advice applications. See proposal on [my blog post](http://philipjohn.me.uk/2014/05/10/idea-a-re-usable-framework-for-who-should-i-vote-for-tests/) but consider using CSV instead of Markdown.
