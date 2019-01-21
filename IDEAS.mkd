@@ -252,7 +252,7 @@ A twitter bot that responds automatically to people tweeting things like "Heard 
 
 ## QR codes on poll cards and ballot papers
 
-...that link to the corresponding ballot paper on WhoCanIVoteFor. This will mean voters can get the information at 'Point-of-Vote'.
+...that link to the corresponding ballot paper on WhoCanIVoteFor. This will mean voters can get the information at 'Point-of-Vote'. (Research insight: 'people try to leave with their ballot papers so that they can go home to google the candidates')
 
 ## key
 
